@@ -3,7 +3,7 @@ title: Jay Wu
 email: arkhanwu@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Personal website and blog for Jay Wu 
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
+baseurl:  # the subpath of your site, e.g. /blog/
 
 github_username:  jaywuYJ
 
