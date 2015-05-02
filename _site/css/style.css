@@ -1125,7 +1125,7 @@
 
 		#footer .copyright
 		{
-				padding-right:10px;
+				
 			line-height: 1.25em;
 		}
 		
@@ -1164,7 +1164,7 @@
 		{
 			background: #fff;
 			padding-top: 0;
-				padding-right:10px;			
+			
 		}
 	
 			#main > section.one .image.featured
@@ -1175,19 +1175,18 @@
 		#main > section.two
 		{
 			background-color: #f5fafa;
-				padding-right:10px;			
+		
 		}
 	
 		#main > section.three
 		{
 			background-color: #ecf1f1;
-				padding-right:10px;			
+	
 		}
 	
 		#main > section.four
 		{
-			background-color: #e8edec;
-				padding-right:10px;			
+		
 		}
 
 @font-face {
